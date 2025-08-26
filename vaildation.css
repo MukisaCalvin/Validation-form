@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+}
+.book{
+    width:40%;
+    border: 1px solid #753939;
+    border-radius: 10px;
+    margin: auto;
+    padding: 10px;
+}
